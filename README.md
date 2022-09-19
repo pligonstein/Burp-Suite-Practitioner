@@ -10,4 +10,6 @@
 
 4)https://github.com/PortSwigger/http-request-smuggler - HTTP request smuggler
 
-5)https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+5)https://portswigger.net/web-security/cross-site-scripting/cheat-sheet ~ PortSwigger XSS cheat sheet
+
+6)https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/README.md ~ XSS cheat sheet
